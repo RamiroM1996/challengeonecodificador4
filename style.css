@@ -2,10 +2,13 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    color:red; 
-    font-color: blue;
+   
 } 
 
+
+::placeholder { 
+    color: blue;
+}
 body {
     background: #E5E5E5;
     /* overflow-y:hidden; */
