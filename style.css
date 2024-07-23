@@ -30,7 +30,11 @@ body {
     float: left;
     width: 70%;
     height: 70%;
-    border-radius: 25px;
+    border-radius: 25px; 
+
+    .input {  
+        texto-color: red;
+    }
 }
 
 .right {
